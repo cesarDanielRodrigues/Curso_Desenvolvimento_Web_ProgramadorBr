@@ -1,0 +1,4 @@
+Funções serve para encapsular um código que poderá ser invocado/chamado por qualquer outro trecho do programa.
+Elas podem receber argumentos, que são valores qu só são usados quando chamamos a função.
+
+Quando precisar que a função retorne alguma coisa para um variável, basta usar o return e atribuir a função a alguma variável.

@@ -1,0 +1,3 @@
+Métodos é função associada a um objeto especifico. Os métodos são definidos como propriedade de um objeto e podem ser invocados usando a sintaxe de ponto "." juntamente com o nome do método.
+Os métodos podem receber argumentos e podem interagir com outras propriedades do objeto. Eles são úteis para encapsular a lógica que esta associada a um objeto especifico e podem ser reutilizados em diferentes partes do seu código.
+Eles são parte importante da programação orientada a objetos em JavaScript e são frequentemente usados para criar comportamentos dinâmicos e reutilizáveis.

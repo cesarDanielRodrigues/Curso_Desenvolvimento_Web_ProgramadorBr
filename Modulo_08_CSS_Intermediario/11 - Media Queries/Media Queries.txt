@@ -1,0 +1,4 @@
+Media queries são para inserir comportamentos diferentes na aplicação, se o viewport por de um tamanho pre-determinado.
+Se atentar a localização da media querie quando houver mais de 1x.
+Para chamar a media queria o comando é: @media screen and ("tamanho maximo ou minimo de viewport".
+Tudo que foi inserido antes da media querie continua em execução a menos que seja modificado dentro da media querie.

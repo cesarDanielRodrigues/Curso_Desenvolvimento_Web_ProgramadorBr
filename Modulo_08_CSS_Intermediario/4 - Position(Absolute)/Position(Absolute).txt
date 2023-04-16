@@ -1,0 +1,3 @@
+O position absolute é semelhante ao relative, porem o relative tem o elemento posicionado em relação a si mesmo, enquanto o absolute tem sua posição referente ao elemento pai, desde que o pai não tenha o posicionamento padrao(position:static).
+Quando o elemento tem position absolute habilitado, ele é removido do fluxo normal do documento.
+O elemento no position absolute deixa de ser relativo, podendo usar as medidas exatas.

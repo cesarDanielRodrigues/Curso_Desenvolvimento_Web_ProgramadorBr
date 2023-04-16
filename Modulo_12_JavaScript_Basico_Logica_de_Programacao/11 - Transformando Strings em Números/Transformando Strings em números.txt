@@ -1,0 +1,1 @@
+Para tranformar strings em números basta usar, parseInt para número inteiros e parseFloat para números reais.

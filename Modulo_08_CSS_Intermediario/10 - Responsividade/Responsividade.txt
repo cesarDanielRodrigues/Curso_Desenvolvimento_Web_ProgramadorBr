@@ -1,0 +1,1 @@
+Para tornar a aplicação responsiva é necessário utilizar unidades de medidas relativas, que tem referencia no tamanho do pai ou body.

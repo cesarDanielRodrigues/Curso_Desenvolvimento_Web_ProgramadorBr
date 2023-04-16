@@ -1,0 +1,1 @@
+O DOM é uma representação em memória do documento HTML ou XML e permite ao JavaScript interagir com os elementos do documento. Isso significa que o JavaScript pode acessar, criar, modificar e excluir elementos e conteúdo na página da web usando o DOM.

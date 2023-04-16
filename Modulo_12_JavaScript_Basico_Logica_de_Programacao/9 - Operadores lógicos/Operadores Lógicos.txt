@@ -1,0 +1,4 @@
+Operadores logíco comparam os valores booleanos de uma ou mais variáveis.
+Quando se trata de "e", só é retornado true se todos os valores forem verdadeiros.
+Quando se trata de "ou", só é retornado false se todos os valores forem falsos.
+Negação é o contrario do valor a ser verificado, Ex: se a=true, !a = false.

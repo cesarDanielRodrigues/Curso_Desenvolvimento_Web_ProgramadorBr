@@ -1,0 +1,3 @@
+As operações aritméticas podem ser realizadas apenas por números.
+
+Se atentar com a sequência que se é inserido incrementar/decrementar.

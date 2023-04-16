@@ -1,0 +1,1 @@
+alert é o comando para apresentar uma caixa de alerta para o usuário enquanto o prompt ele apresenta uma caixa de texto junto da caixa de alerta

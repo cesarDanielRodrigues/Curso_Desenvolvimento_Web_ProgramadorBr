@@ -1,0 +1,15 @@
+let: é usado para declarar uma variável que pode ser reatribuída em um escopo local. Ou seja, você pode declarar uma variável usando 'let' e reatribuir um novo valor para ela dentro do mesmo escopo, mas essa variável não estará disponível fora desse escopo.
+    let nome = 'Maria';
+    nome = 'João';
+    console.log(nome); // 'João'
+
+var: é usado para declarar uma variável que tem escopo global ou escopo de função. Isso significa que a variável é acessível em qualquer lugar dentro desse escopo ou em todo o código, se estiver fora de uma função. No entanto, as variáveis declaradas com 'var' podem ser reatribuídas e até mesmo redeclaradas em qualquer lugar do código, o que pode lever a problemas de escopo.
+    var nome = 'Maria';
+    var nome = 'João';
+    console.log(nome); // 'João'
+
+const: é usado para declarar uma variável que é imutável, ou seja, o valor atribuído a ela não pode ser alterado. Ela também tem escopo de bloco, o que significa que é acessível apenas dentro do bloco em que foi declarada.
+    const nome = 'Maria';
+    nome = 'João'; // TypeError: Assignment to constant variable.
+
+Em resumo, "let" é uma boa escolha quando você precisa reatribuir o valor de uma variável em um escopo local, 'var' é útil em alguns casos em que você precisa de uma variável global ou de função e 'const' é útil quando você precisa garantir que o valor da variável não mude e deseja ter um escopo de bloco.É importante escolher a palavra-chave correta de acordo com as necessidades do seu código.
