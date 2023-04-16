@@ -1,0 +1,2 @@
+O que é uma tag dentro do HTML, é como se fosse a marcação para o navegador lêr
+<NomeDaTag> titulo </NomeDaTag>  = (Elemento HTML)

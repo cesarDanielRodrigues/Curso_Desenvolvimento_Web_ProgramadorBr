@@ -1,0 +1,1 @@
+a tag <figure> é usado para colocar uma imagem com legenda, para isso é necessario declarar a imagem dentro dessa tag, e após isso colocar inserir um elemento HTML com a tag <figcaption> com a legenda da imagem: <figcaption>Legenda</figcaption>

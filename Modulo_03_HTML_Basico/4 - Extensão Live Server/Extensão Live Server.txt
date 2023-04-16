@@ -1,0 +1,1 @@
+Nesse aula ele ensina como usar a extenção do vscode, Live Server

@@ -1,0 +1,19 @@
+A formatação serve para adicionarmos atributos ao texto para ajudar na parte semântica;
+Negrito:
+    <b> Não semântica
+    <strong> Semântica
+Italico: 
+    <i> Não semântica
+    <em> Semântica
+Marcação de texto:
+    <mark>
+Deixar o texto ou palavra menor:
+    <small>
+Deixar o texto ou palavra abaixa da linha: 
+    <sub>      
+Deixar o texto ou palavra acima da linha: 
+    <sup>
+Demontrar que um contéudo foi deletado:
+    <del>
+Demontrar que um contéudo foi inserido: 
+    <ins>       
