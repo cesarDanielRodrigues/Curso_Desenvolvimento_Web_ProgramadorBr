@@ -1,0 +1,5 @@
+  O primeiro entendimento é que o filho vai herdar o tamanho de fonte do do pai;
+  A unidade de medida para fonte é recomenda apenas para fontes
+  Elas são: 
+  em - Essa unidade multiplica o tamanho do pai, ou seja, se o pai tem o font-size: 25px, 2em equivale a 50px no filho.
+  rem - Essa unidade multiplica o tamanho do pai principal, se o pai tem o font-size: 25px, e o pai principal tem o tamanho de 20px, então o filho tera 2rem que equivale a 40px (2*20px);

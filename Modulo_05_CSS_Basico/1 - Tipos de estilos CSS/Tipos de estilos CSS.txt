@@ -1,0 +1,5 @@
+Existem 3 tipos de modelos de CSS: inline, interno e externo;
+O modelo inline é colocado dentro da própria tag com o atributo style: <p style="color: red">Texto</p>
+O modelo interno é inserido o style em forma de elemento dentro head: <head> <style> p{color:red} </style> </head>
+O modelo externo é um arquivo .css linkado dentro do HTML, onde contém todas as propriedades de estilo
+Tudo que inserido dentro da tag, atributo o arquivo é chamado de propriedade;

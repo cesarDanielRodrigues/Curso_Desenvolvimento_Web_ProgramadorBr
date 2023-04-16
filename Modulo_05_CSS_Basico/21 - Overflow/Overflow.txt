@@ -1,0 +1,3 @@
+Quando houver a necessidade de deixar o elemento filho maior que o elemento pai, é possível que a aplicação apresente problema de visualização.
+A propridade overflow serve justamente para isso, ele te permite inserir um scroll para rolagem.
+A propriedade tem tipos overflow-x e overflow-y.

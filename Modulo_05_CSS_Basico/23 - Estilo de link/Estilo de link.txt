@@ -1,0 +1,10 @@
+Por padrão um link sempre vem com um cursor especifico e algumas outras propriedades padroes;
+Quando se utiliza ":" é possivél configurar algumas pripriedades de uma classe, isso é chamado de pseudo-classes;
+Existem diversas pseudo-classes como :visited,hover,active;
+Mas nem todos as propriedades podem ser modificadas dentro das pseudo-classes; Somente as propriedades: color,
+background-color,
+border-color, border-bottom-color, border-left-color, border-right-color, border-top-color
+column-rule-color,
+outline-color,
+text-decoration-color,
+text-emphasis-color.

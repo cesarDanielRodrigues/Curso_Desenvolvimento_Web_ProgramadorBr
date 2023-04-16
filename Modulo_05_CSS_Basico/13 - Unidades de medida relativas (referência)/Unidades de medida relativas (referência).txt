@@ -1,0 +1,7 @@
+Unidades de medidas relativas é quando os elementos tem uma referencia em relação a outro elemento, geralmente o elemento pai;
+Essa medidas são:
+% - porcetagem
+
+(No caso a seguir ele segue o tamanho da viewport, que seria a tela visivel, assim sendo 50vw seria 50% da largura de tela visível)
+vw - viewport width
+vh - viewport height

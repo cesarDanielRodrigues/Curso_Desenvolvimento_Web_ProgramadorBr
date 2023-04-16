@@ -1,0 +1,4 @@
+Com o CSS externo é possível modificar várias páginas ao mesmo tempo, e determinar um padrão de estilo para todas as páginas;
+Para linkar o CSS ao HTML é necessário usar o elemento: <link rel="stylesheet" href"">;
+O "stylesheet" é para usado somente para linkar um tipo de arquivo de stilo como CSS;
+A tag <link> é sempre para quando quiser linkar o HTML com algum outro arquivo;
