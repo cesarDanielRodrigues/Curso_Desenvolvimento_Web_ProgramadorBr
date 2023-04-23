@@ -10,16 +10,19 @@
 
         function loaded() {
             let t = document.getElementById('titulo')
-            // t.onclick = mudarText; 
+            t.innerHTML = "Funcionando"
 
-            t.addEventListener("mouseover", mouseover)
-            t.addEventListener("mouseout", mouseout)
+            // t.addEventListener("mouseover", mouseover)
+            // t.addEventListener("mouseout", mouseout)
         }
         function mouseover() {
             this.innerHTML = "Mouse em cima do texto"
         }
         function mouseout(){
             this.innerHTML = "Mouse fora do texto"
+        }
+        function iniciar(){
+            this.innerHTML = "Funcionando"
         }
 
     </script>
