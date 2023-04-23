@@ -1,0 +1,3 @@
+O Document Object Model (DOM) permite que os desenvolvedores usem JavaScript para lidar com esses eventos. Quando um evento é acionado na página da web, o JavaScript pode executar uma ação específica, como exibir uma mensagem, alterar o conteúdo da página ou executar uma função personalizada.
+Os eventos do DOM são tratados através dos Event Listeners, que são funções que são executadas quando um evento é acionado. Os Event Listeners são adicionados a um elemento HTML específico e monitoram os eventos que ocorrem nesse elemento.
+Os eventos do DOM são uma parte fundamental da programação em JavaScript para páginas da web interativas e dinâmicas. Eles permitem que o código JavaScript responda a ações do usuário e atualize a página em tempo real.
