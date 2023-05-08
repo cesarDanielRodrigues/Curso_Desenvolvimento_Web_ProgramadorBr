@@ -3,12 +3,12 @@ let: é usado para declarar uma variável que pode ser reatribuída em um escopo
     nome = 'João';
     console.log(nome); // 'João'
 
-var: é usado para declarar uma variável que tem escopo global ou escopo de função. Isso significa que a variável é acessível em qualquer lugar dentro desse escopo ou em todo o código, se estiver fora de uma função. No entanto, as variáveis declaradas com 'var' podem ser reatribuídas e até mesmo redeclaradas em qualquer lugar do código, o que pode lever a problemas de escopo.
+var: é usado para declarar uma variável que tem escopo global ou escopo de função. Isso significa que a variável é acessível em qualquer lugar dentro desse escopo ou em todo o código, se estiver fora de uma função. No entanto, as variáveis declaradas com 'var' podem ser reatribuídas e até mesmo redeclaradas em qualquer lugar do código, o que pode levar a problemas de escopo.
     var nome = 'Maria';
     var nome = 'João';
     console.log(nome); // 'João'
 
-const: é usado para declarar uma variável que é imutável, ou seja, o valor atribuído a ela não pode ser alterado. Ela também tem escopo de bloco, o que significa que é acessível apenas dentro do bloco em que foi declarada.
+const: é usado para declarar uma variável que é imutável. Ela também tem escopo de bloco, é acessível apenas dentro do bloco em que foi declarada.
     const nome = 'Maria';
     nome = 'João'; // TypeError: Assignment to constant variable.
 
