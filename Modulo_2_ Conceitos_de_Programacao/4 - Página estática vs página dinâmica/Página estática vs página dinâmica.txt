@@ -1,0 +1,3 @@
+Página estática é quando o conteúdo da página não altera, ou seja é sempre o mesmo conteúdo por mais vezes que seja carregada a página.
+Página dinâmica é o contrário, ela altera o conteúdo conforme a necessidade ou configuração, sempre que a página carrega pode ser ou vai ser um conteúdo diferente.
+  

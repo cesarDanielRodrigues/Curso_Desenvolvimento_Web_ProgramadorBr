@@ -1,0 +1,1 @@
+O HTML funciona como interface, enquanto o CSS é o estilo que essa interface recebe e o JS é como essa interface estilizada vai funcionar.
