@@ -1,0 +1,17 @@
+Desenvolvedor Front-End = Client-Side
+    - "Client-Side" (lado do cliente)
+    - UX (experiência do usuário)
+    - UI (interface do usuário)
+    - Responsividade
+    - ≠'s navegadores
+    - Layout
+    - Animações
+    - Integração com o back-End
+Desenvolvedor Back-End = Server-Side
+    - "Server-Side" (lado do servidor)
+    - Persistência de dados (requisição para puxar dados ou salvar dados)
+    - Regras de negócios
+    - Algoritmos complexos
+    - Performance
+    - Escabilidade (varios usuário usarem ao mesmo tempo)
+    

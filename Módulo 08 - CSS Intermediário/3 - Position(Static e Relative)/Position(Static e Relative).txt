@@ -1,0 +1,4 @@
+Por padrão o position já vem como static. Ela que permite o posicionamento block, inline, inline-block.
+A position relative é a posição relativa do elemento em relação a ele mesmo, muito semelhante ao margin, porém o margin adiciona um espaço enquanto o position altera a posição do elemento.
+A position relative permite usar posicionamente semelhante ao margin: top;bottom;left;right.
+

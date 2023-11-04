@@ -1,0 +1,23 @@
+#primeiro{
+    height: 100px;
+    /* background-color: blue; */
+}
+#segundo{
+    height: 100px;
+    width: 100px;
+    /* background-color: red; */
+    /* border-width: 5px 10px 15px 20px; */
+    border-width: 10px;
+    border-style: solid;
+    border-color: red yellow green blue;
+    /* border-radius: 15px 20px 30px 40px; */
+    border-radius: 50%;
+}
+#terceiro{
+    height: 100px;
+    /* background-color: green; */
+}
+p{
+    border: 3px solid green;
+    border-radius: 5px;
+}

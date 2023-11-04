@@ -1,0 +1,4 @@
+Para colocar o maior que ou menor que é necessario usar &lt para menor que ;e &gt para maior que.
+A propriedade cursor serve para alterar o cursor do mouse quando ele passar em determinada classe. ELe tem diversos parametros.
+Para colocar uma imagem no lugar do cursor, é só usar o parametro url junto de um paramentro padrao, url(imagem),default;
+

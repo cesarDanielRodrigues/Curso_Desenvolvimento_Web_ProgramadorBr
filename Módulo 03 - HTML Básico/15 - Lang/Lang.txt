@@ -1,0 +1,3 @@
+O atributo <lang> serve para dizer ao navegador qual o idioma do site
+Ex: <html lang="pt-BR"> 
+Isso permite que os navagadores ofereçam uma tradução para o usúario;

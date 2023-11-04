@@ -1,0 +1,7 @@
+O array é uma estrutura de dados que podem armazenar varios dados ao mesmo tempo, basicamente é uma variável que armazena outras variáveis.
+Um array é difinido por index, que começam sempre pelo 0.
+Existe 2 formas principais de como declarar um array;
+Dentro de um array é possível inserir todos os tipos de dados;
+Por causa do index, ele geralmente é associado a for para ser lido e apresentado;
+(var i in alunos) é usado para jogar o index do array para a variável i;
+(var i of alunos) é usado para jogar o elemento para a variavel i;

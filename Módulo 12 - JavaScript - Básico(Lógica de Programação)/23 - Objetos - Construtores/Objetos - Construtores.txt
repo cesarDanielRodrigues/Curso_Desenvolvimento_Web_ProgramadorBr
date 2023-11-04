@@ -1,0 +1,10 @@
+Um construtor é uma função especial que é usada para criar objetos. Quando uma função é usada como um construtor, ela cria um novo objeto e define seu protótipo para ser igual ao protótipo da função.
+A sintaxe para criar um objeto com um construtor é usar a palavra-chave "new" seguida pelo nome da função do construtor, seguido por quaisquer argumentos necessários pela função do construtor.
+Os construtores são úteis porque permitem criar objetos com propriedades e métodos predefinidos. Quando um objeto é criado usando um construtor, ele herda as funções do construtor. Isso significa que o objeto tem acesso aos métodos e propriedades definidos no protótipo da função do construtor, bem como em seu próprio conjunto de propriedades.
+
+function Pessoa(nome, idade) {
+  this.nome = nome;
+  this.idade = idade;
+}
+const pessoa = new Pessoa("João", 30);
+console.log(pessoa) // Output: Pessoa {nome:"Joao",idade:30}

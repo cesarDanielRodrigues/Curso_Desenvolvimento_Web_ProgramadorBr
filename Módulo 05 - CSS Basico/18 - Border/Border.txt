@@ -1,0 +1,5 @@
+Para inserir uma borda, tem que usar a propridade border-width com o parametro de espessura da borda, e precisa da propriedade border-style com o parametro do estilo de borda;
+Se atentar quando for colocado a cor com a propriedade border-color, dependendo de como o parametro for colocado pode ser incluido incorretamente, o mesmo ser para border-width;
+A propriedade border-radius tem como objetivo alterar os cantos das bordas, tambem é possivel inserir mais de um parametro;
+No metodo shorthand, basta inserir border seguido da espessura, do tipo de borda e da cor, nessa ordem respectivamente;
+Para criar um circulo, basta criar um borda com largura e altura iguais, e inserir um radius: 50%;

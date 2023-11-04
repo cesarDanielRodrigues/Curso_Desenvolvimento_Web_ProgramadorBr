@@ -1,0 +1,2 @@
+A propriedade margin é o espaçamento da borda pra fora, já a propriedade padding é da borda pra dentro;
+Tambem é possível inserir mais de um paramentro nas duas propriedades.

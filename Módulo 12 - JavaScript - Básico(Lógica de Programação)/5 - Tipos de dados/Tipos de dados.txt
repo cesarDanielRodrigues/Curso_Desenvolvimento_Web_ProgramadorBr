@@ -1,0 +1,7 @@
+Tipos de variáveis:
+    -String: variável que armazena texto e caracteres.
+    -Number: variável que armazena números inteiros e reais.
+    -Undefined: quando a variável não tem um tipo de dado definido.
+    -Null: quando a variável tem um valor nulo.
+    -Boolean: variável que armazena um valor lógico(true or false).
+Operações matemáticas são realizadas apenas com números.

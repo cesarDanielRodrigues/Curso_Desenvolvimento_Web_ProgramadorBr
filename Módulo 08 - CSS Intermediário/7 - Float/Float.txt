@@ -1,0 +1,1 @@
+A propriedade float determina que um determinado elemento, sai do fluxo comum e seja direcionado ao lado de outro elemento para se posicionar ao seu redor.

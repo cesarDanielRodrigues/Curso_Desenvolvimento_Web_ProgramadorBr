@@ -1,0 +1,1 @@
+O computador apenas executa comandos, por isso é necessário passar os comandos certos dentro de código para que ele execute de maneira correta.

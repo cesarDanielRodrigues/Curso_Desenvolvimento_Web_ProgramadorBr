@@ -1,0 +1,2 @@
+Variáveis são aonde dados são armazenados;
+Frequentemente variáveis precisam ser inicializadas;

@@ -1,0 +1,3 @@
+As cores dentro da IDE podem ter variás opções primárias, cores persolizadas tambêm podem ser utilizadas, para isso basta colocar background-color: rgb(255,100,0);
+É possível colocar a cor tambêm como hexadecimal: #FF6400 por exemplo, sendo possível abreviar em alguns casos, exemplo, #FFFF00 vai para #FF0;
+O comando "rgba" no lugar do "rgb", ele deixar o ultimo atributo para a opacidade da cor, exemplo do código: color: rgba(0,0,0,1), no hexadecimal fica #FFFF00FF sendo possível abreviar;

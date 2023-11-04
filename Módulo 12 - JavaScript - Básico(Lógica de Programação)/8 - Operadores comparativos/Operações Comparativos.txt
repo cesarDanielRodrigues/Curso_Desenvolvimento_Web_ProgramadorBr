@@ -1,0 +1,3 @@
+Esse operadores comparam um dado com outro e retornam se é verdadeiro ou falso(valor booleano).
+Lembrando que "=" é atribuição.
+Quando se tem "==" ou "!==" ], significa que além de testar o valor da variável em questão como também o tipo do valor.

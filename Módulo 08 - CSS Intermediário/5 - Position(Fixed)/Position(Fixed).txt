@@ -1,0 +1,1 @@
+O position fixed deixa o elemento fixo em relação a viewport, assim sendo ele fica fixo na tela.

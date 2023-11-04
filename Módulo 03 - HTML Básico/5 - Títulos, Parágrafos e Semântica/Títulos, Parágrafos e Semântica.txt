@@ -1,0 +1,3 @@
+Há 6 tipos de titúlos: H1,H2,H3,H4,H5,H6; o uso delas varias de tag para tag, porém geralmente <h1> só pode ser usado uma vez.
+A tag <p> é usado para colocar um parágrafo, pode ser usada diversas vezes.
+A semântica dentro HTML é usada para destacar certas partes em determindas buscas nos motores de pesquisa, para isso é usadas tag semânticas como <h1> e entre outras.

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Alinhamento Vertical</title>
+    <style>
+        body{
+            font-size: 1.2rem;
+        }
+        .card{
+            position: relative;
+            float: left;
+            width: 400px;
+            height: 200px;
+            border: 2px solid green;
+            text-align: center;
+        }
+        .c1{
+            background-color: red;
+            line-height: 200px;
+        }
+        .c2{
+            color: white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            background-color: blue;
+            transform: translate(-50%,-50%);
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card">
+        <div class="c1">
+            César Daniel
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="c2">
+            César Daniel
+        </div>
+    </div>
+
+    
+    
+    
+    
+
+</body>
+
+</html>

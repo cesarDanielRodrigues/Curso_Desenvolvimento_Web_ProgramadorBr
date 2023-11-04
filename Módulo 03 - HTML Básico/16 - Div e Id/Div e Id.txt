@@ -1,0 +1,2 @@
+o elemento <div> é usado para agrupar outros elementos e dar um melhor formato ao codígo;
+O atributo <id="dados"> é usado muito para identificar esse elementos <div> e outros elementos, sendo possível mandar o usúario para diversos pontos do site;

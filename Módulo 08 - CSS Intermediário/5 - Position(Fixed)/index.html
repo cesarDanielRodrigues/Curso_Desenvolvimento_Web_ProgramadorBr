@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Position(Fixed)</title>
+    <style>
+        .quadrado{
+            /* display: inline-block; */
+            width: 100px;
+            height: 100px;
+        }
+        .quadrado-red{
+            background-color: red;
+        }
+        .quadrado-blue{
+            position: fixed;
+            bottom: 500px;
+            right: 0;
+            background-color: blue;
+        }
+        .quadrado-green{
+            background-color: green;
+        }
+        .quadro{
+            width: 500px;
+            height: 4000px;
+            border: 1px solid gray;
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="quadro">
+        <div class="quadrado quadrado-red"></div>
+        <div class="quadrado quadrado-blue"></div>
+        <div class="quadrado quadrado-green"></div>
+    </div>
+</body>
+</html>

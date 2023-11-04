@@ -1,0 +1,6 @@
+Para colocar uma cor de fundo, se utiliza a propriedade background-color junto de alguma cor(cores vista algumas aulas atras).
+Para colocar images na como fundo, teremos que usar a propriedade background-image junto de tag url(endereço da imagem)
+Quando é inserido uma imagem, ela tem a tendencia de não ficar no tamanho correto mais isso pode ser corrigido com a propriedade background-size junto de alguma tag como cover, contain e outras, é interessante sempre verificar como cada tag fica aplicada pois os resultados variam;
+Seguindo a informação dada acima, com a propriedade background-repeat é possível determinar para se a imagem vai repetir ou nao, se repete somente para um lado ou para outro, isso é possível com a tag no repeat ou repeatx e entre outras tags.
+A propriedade background-position serve para colocar a imagem em determinada direção para isso se utiliza as tags padrões de posição(top,bottom,left, right).
+Seguindo uma premissa semelhante, a propriedade background-attachment junto das tags fixed e entre outras, ela serve para deixar a imagem com um determinado padrao de visualização na pagina.

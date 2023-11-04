@@ -1,0 +1,8 @@
+Tipos de input para inserir dados:
+text - Caixa de texto comum
+password - Caixa de texto para senhas(Não é possível ver o que esta sendoi inserido)
+checkbox - Opçao para ser selecionada 1 ou mais opções, geralmente se associa ao atributo value
+radio - Opção para ser selecionada apenas 1, geralmente se associa ao atributo value e checked, se o nome não estiver igual, é possível selecionar mais de um.
+Tipos de input de ação:
+submit - Botão para enviar dados, geralmente se associa o atributo value para modificar o texto do botão.
+reset - Botão para limpar input de inserção de dados, geralmente se associa a atributo value para modificar o texto do botão. 

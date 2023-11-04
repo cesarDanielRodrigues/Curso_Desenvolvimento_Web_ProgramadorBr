@@ -1,0 +1,2 @@
+Operador ternário é muito semelhante ao "IF|ELSE" mas só pode ser feito com uma linha de ação pós condição.
+É muito usado para testes simples.

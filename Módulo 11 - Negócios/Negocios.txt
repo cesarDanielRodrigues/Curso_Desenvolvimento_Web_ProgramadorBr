@@ -1,0 +1,1 @@
+Este módulo no curso é destinada para ensinar venda de projeto para clientes, devido a esta parte não ter maior relevância para o aprendizado de linguagens, frameworks ou bibliotecas, foi pulado e esta vazio do conteúdo do curso .

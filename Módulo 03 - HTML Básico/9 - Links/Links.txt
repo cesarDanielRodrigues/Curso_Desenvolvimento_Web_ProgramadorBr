@@ -1,0 +1,2 @@
+Para inserir um link é necessario coloca a tag <a> junto do atributo href="" com o endereço da pagina que desejar, lembrando que se não expecificar o endereço ele abrira o index.html;
+Se atentar ao endereçar um link por pasta pois pode haver problemas para o navegar encontrar o HTML necessario.

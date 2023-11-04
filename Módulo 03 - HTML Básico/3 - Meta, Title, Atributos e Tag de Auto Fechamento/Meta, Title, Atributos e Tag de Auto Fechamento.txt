@@ -1,0 +1,4 @@
+Os tipos de códigos apresentados nessa aula são insiridos dentro do <head>.
+A tag <meta> serve para dizer para o navagador como interpretar algo específico.
+A tag <title> serve para o título na aba do site.
+Um atributo sempre vai entrar dentro da tag de abertura, cada tag vai aceitar atributos diferentes e eles adicionam caracteristicas específicas na tag.

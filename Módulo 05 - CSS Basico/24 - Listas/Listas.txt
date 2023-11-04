@@ -1,0 +1,7 @@
+Dentro do HTML, as tags de lista(ul,ol,li) como padrao se alternar para se diferenciar seus icones dos demais.
+O tamanho idel de um icone para lista é de 16px X 16px, sempre considerando o tamanho da fonte.
+A propriedade list-style-position funciona apenas na lista não-ordenada.
+O icone das lista ficam dentro do padding, se o padding for zerado ele some.
+a propriedade list-style tem diversos parametros que alterar esse tipo de colocação.
+É possível coloca imagens no icones, porem não é possível mudar o tamanho do icone somente com o css. list-style-image
+
