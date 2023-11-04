@@ -1,8 +1,0 @@
-Existe 3 grandes familias de fonte: Com serifa, sem serifa e monospace
-A inserção ou mudança da fonte acontece com a propriedade font-family;
-Existem diversos parametro para se colocar dentro dessa propriedade, mas um detalhe importante, é que quando esse parametro tem espaços é necessário colocar "";
-Existe a possibilidade de colocar fontes reservas caso o navegador não interprete determinada fonte ou a mesma seja desativada;
-A propriedade font-style permite alterar o estilo da fonte, colocando ela como italic por exemplo;
-A propriedade font-size serve para alterar o tamanho da fonte, como visto anteriormente;
-A propriedade font-weight serve para alterar a fonte para negrito, mas ela tem valores sendo o 900 mais escuro; Dependendo da familia da fonte, ela pode não sofre determinadas alterações de cor.
- A propriedade font-variant te da a opção de variar fonte, muito semelhante a text-transform mais com exceções.

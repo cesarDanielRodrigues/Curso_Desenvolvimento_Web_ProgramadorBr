@@ -1,1 +1,0 @@
-document é basicamente o elemento HTML que esta sendo exibido, sendo uma das maneiras do JS interagir com o HTML 

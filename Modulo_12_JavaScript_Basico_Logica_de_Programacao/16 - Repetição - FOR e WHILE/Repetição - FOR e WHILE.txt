@@ -1,2 +1,0 @@
-Os comandos "for" e "while" são laços de repetição, assim sendo eles executam os códigos inseridos dentro do bloco de comando em uma determinada quantidade de vezes.
-O "for" ele é mais utilizado quando se tem um tamanho específico, ao contrário do "while" que pode ter um tamanho não determinado podendo gerar até mesmo um loop infinito.

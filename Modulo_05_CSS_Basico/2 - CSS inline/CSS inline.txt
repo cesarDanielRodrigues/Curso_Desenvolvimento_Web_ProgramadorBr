@@ -1,2 +1,0 @@
-Quando o CSS é inline, é necessário inserir ";" no final de cada propriedade, caso houver mais de uma;
-Resumo segue o mesmo padrão do resumo anterior(Aula anterior)

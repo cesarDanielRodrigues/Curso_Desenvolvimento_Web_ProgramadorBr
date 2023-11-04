@@ -1,1 +1,0 @@
-É possível concatenar strings com outras strings e com números

@@ -1,3 +1,0 @@
-//  && e
-//  || ou
-//  !variável Negativo

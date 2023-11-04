@@ -1,4 +1,0 @@
-Um line-height correto geralmente tem o tamanho da fonte mais 8px;
-Caso houver necessidade de que mais de um elemento do HTML fique com o mesmo estilo dentro do CSS, basta colocar os elementos condizentes uma apos a outra separada com vírgula.
-Para selecionar elementos HTML que estão dentro de outro elementos HTML, basta usar o ">" entre o elemento pai e filho.
-

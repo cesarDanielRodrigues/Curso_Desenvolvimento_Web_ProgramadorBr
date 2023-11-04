@@ -1,6 +1,0 @@
-O atributo "id" é um seletor, ele serve para selecionar algum elemento no HTML, como informado antes, porém para utilizar dentro do CSS, é necessário usar #, ficando assim: #nomeDoId{};
-O atributo "class" também é um seletor, geralmente seu nome é tudo minúsculo e com traço para os espaços(ex:class="fundo-azul"), no CSS é inserida assim: .nome-da-class{};
-A diferença do "id" para "class" é que o "id" só pode ser usado uma vez, ou seja, ele serve para identificar elementos únicos como parte do html que um link direciona, já o "class" pode ser usado infinitas vezes, você basicamente cria uma classe de elemento que tenham um determinado padrão;
-O CSS sempre vai funcionar do elemento que tem mais especificidade para o que tem menos especificidade, quanto mais específico for, maior vai ser a prioridade, o "id" é mais especifico que o "class", tag é o menos especifico;
-É possível ter a "classe" e o "id" na mesma tag;
-Se quiser inserir mais de uma "class" na mesma tag, basta dar um espaçamento, ficando assim: class="primeira-classe segunda-classe";

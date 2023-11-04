@@ -1,9 +1,0 @@
-Unidades de medidas fixas são unidades de medidas que não se alteram conforme o tamanho da página;
-Essas unidades são: 
-cm - Centímetros
-mm - Milímetros
-in - Polegadas (1in = 96px = 2.54cm)
-px - pixels(1px = 1/96th of 1in)
-pt - pontos(1pt = 1/72 of 1in)
-pc - picas(1pc = 120pt)
-

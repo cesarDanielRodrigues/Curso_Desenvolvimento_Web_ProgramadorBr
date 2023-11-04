@@ -1,3 +1,0 @@
-Elementos que tem o display block pode ter o seu largura e altura modificados, diferente do display inline.
-Não se pode ter uma div dentro de um paragrafo porque o paragrafo tem display block, gerando conflito com qualquer elemento que tenha display block.
-A diferença do display inline block para inline é de que ele permite modificar a altura e largura.

@@ -1,2 +1,0 @@
-O comando switch é muito parecido com o comando do "IF|ELSE", porém é ele é muito melhor aproveitado quando existe multiplas escolhas.
-É necessário usar o 'break' após o comando de ação para não haver erros de interpretação do próprio compilador de código.

@@ -1,1 +1,0 @@
-Formulário é importante para capturar dados dos usuarios. Ele é o responsável pela integração do front end com o back end.

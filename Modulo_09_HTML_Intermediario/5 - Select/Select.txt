@@ -1,4 +1,0 @@
-O select cria uma caixa de seleção.
-É necessário o atributo value, para se ter um valor a ser enviado.
-Sempre a primeira opção inserida no codigo é mostrada prioritariamente, a não ser se for utilizado o select.
-Se usar o atributo size junto do select, ele apresenta ao usuario mais de 1 opção ao mesmo tempo, junto desse atributo é possível usar o multiple para selecionar mais de 1 ao mesmo tempo.

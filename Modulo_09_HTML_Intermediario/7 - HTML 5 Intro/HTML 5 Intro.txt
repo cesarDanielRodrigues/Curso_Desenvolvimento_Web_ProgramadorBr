@@ -1,1 +1,0 @@
-O html 5, versão mais atual do html pode não funcionar determinados elementos, por isso é sempre necessário verificar se a aplicação roda para o sistema que esta sendo utiliado.

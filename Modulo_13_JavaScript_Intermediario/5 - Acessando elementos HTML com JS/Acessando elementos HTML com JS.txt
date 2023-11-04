@@ -1,1 +1,0 @@
-O método getElementById() é um dos métodos mais comuns do objeto document em JavaScript. Ele permite selecionar um elemento HTML na página da web com base no valor do atributo id desse elemento.

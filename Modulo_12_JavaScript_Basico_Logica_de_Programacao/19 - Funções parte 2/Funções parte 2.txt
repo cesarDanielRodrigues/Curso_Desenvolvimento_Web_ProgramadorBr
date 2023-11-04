@@ -1,2 +1,0 @@
-No JS uma função pode ser uma variável, assim sendo uma função pode ser atribuida a uma variável;
-É possível criar tambem uma função anônima, que é declara uma função direto na variável, sem receber um nome específico.

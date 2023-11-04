@@ -1,9 +1,0 @@
-Os input novos que vieram com o HTML 5 foram:
-color-Adicionar uma color.
-Date-Adicionar uma data, é possível coloca data minima e maxima(max;min).
-Datetime-local-Adicionar data com hora, segue a msm regra do input date.
-File-Adiciona a opção de colocar um arquivo, esse input só funciona corretamente no method post.
-Number-Adiciona um campo apenas para números, segue também a mesma regra do date de máximo e mínimo.
-Range-Adiciona uma barra de escala, aqui se utiliza o atributo max e min para definir tamanho da escala, o value pre determina um valor da escala.
-Tel-Adiciona um campo para inserir o telefone, esse input é mais útil em dispositivos mobile porque abre o teclado númerico.
-Email-Adiciona um campo de email, que só envia informações se conter @ e depois ponto(.).

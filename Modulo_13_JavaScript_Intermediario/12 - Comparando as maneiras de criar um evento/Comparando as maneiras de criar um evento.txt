@@ -1,7 +1,0 @@
-1. Adicionar um Event Listener como atributo, como por exemplo, onclick diretamente no elemento HTML. Essa abordagem é semelhante à primeira forma de criar Event Listeners, mas em vez de adicionar o listener diretamente ao JavaScript, ele é adicionado diretamente ao elemento HTML.
-    <h1 onclick="f()">Title</h1>
-2. O método addEventListener é uma forma mais flexível e recomendada de adicionar Event Listeners em comparação com a propriedade on do objeto DOM. Ele permite que você especifique várias funções de callback para um único tipo de evento, além de permitir a remoção de Event Listeners quando não são mais necessários. Ele é adicionado direto no JavaScript.
-    window.onload = function(){
-            let h1 = document.getElementsByTagName("h1")[0]
-            h1.addEventListener("click",f1)
-        }

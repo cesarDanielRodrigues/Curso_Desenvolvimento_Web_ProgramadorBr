@@ -1,3 +1,0 @@
-Para se executar um arquivo js junto de uma pagina html, existe 2 formas:
-1 - colocando script no html, informando o comando JS que deseja-se que seja executado. Ex:<script>alert('Hello World')</script>
-2 - colocando o script no html, informando o local do arquivo com o atributo src, e dentro do arquivo informando o comando necessário.

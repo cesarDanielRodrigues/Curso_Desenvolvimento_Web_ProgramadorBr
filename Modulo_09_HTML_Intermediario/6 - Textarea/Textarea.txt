@@ -1,1 +1,0 @@
-O lemento textarea é semelhante ao type text só que aceita mais caracteres.

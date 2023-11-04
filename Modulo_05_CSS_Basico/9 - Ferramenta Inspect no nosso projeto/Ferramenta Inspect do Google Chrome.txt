@@ -1,4 +1,0 @@
-Dentro do nosso codigo, podemos fazer pequenas mudanças atraves do inspecionar;
-Podemos usar o computed para sermos mais especificos em um determinado elemento, sabendo a seu color, seu background-color e entre outras propriedades do css.
-Essa ferramente vai ser muito usado para testarmos caracteristicas visual e para saber como funciona varios aspctos visuais.
- 

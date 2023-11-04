@@ -1,2 +1,0 @@
-Dentro da propriedade background é possível adicionar funções para executar determinadas ações, como o efeito gradiente que inserido com a função linear-gradient(to right, blue, red 20%) aqui a inserção de cor e orientação pode variar;
- 

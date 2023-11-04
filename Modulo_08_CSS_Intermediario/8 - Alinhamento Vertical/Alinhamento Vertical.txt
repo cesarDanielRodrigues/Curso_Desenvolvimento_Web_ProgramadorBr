@@ -1,2 +1,0 @@
-Usando o line height é possivel alinhar verticamente, mas tem a necessidade de saber o tamanho do elemento pai em determinados casos.
-Usando o position pode se alinhar tambem, mas tem que usar o transforme:translate para corrigir eventuais erros de posicionamentos.

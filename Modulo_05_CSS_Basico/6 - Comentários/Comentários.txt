@@ -1,1 +1,0 @@
-Para comentar no CSS, é só usar /*texto*/

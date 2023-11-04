@@ -1,1 +1,0 @@
-Atribuições são para fazer operações aritméticas de maneira mais prática.

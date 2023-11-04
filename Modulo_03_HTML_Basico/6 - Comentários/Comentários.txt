@@ -1,1 +1,0 @@
-Um comentário serve para passar uma informação ao desenvolvedor, como por exemplo descrição de certos comandos ou uma ação que não deve ser desfesita 

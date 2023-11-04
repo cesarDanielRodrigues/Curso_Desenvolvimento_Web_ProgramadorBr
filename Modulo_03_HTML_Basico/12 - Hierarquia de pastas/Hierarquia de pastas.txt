@@ -1,5 +1,0 @@
-Se na localização de arquivos for inserido somente "/" ele buscara dentro apenas do diretorio principal;
-Se usarmos "./" ele buscara no diretorio em que o arquivo aberto se encontra, se não usarmos nenhuma "/" ele fara a mesma coisa;
-Se usarmos "..?" ele buscara no diretorio que esta acima do arquivos aberto;
-
-!!!!É possivel que haja mais de um index, separados por diretorios!!!!

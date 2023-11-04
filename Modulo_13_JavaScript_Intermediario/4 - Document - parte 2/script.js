@@ -1,1 +1,0 @@
-document.body.innerHTML += '<br>Esse texto foi inserido atraves de um JS'

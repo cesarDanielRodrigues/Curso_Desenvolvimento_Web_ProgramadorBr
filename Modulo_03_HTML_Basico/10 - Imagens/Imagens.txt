@@ -1,4 +1,0 @@
-Para colocar uma imagem da internet no HTML você tem usar a tag <img> dentroo dela tem que colocar um atributo chamado src, ficando assim <img src="link da imagem">, para colocar uma imagem local <img src="/local da imagem/img.jpg">;
-Quando o subir para o servido, se atentar ao endereço da imagem pois ele pode interferir na localização dela, por isso é recomendado colocar o codigo da maneira local;
-Dentro do HTML é possivel alterar certas atributos da imagem, como altura, largura e entre outros, para isso basta inserir EX: <img src="/local da imagem/img.jpg" width="100">;
-Dentro desse elemento de img é muito importante colocar o atributo alt, que indica para o navegador o que é a imagem e caso ela não carregue ou seja rodada em algum software para deficientes visuais ele escreve ou fala essa indicação;

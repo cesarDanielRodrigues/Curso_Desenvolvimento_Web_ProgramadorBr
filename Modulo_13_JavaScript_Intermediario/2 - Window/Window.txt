@@ -1,2 +1,0 @@
-Essa aula é usada apenas para mostrar o window, para que serve, e um pouco de qual vai ser sua função dentro do curso.
-Em resumo, o window é um objeto que representa a janela do navegador que está exibindo a página da web. Ele é o objeto raiz do modelo de objetos, do navegador e contém várias propriedades e métodos que permitem interagir com a janela e com o documento HTML que está sendo exibido.

@@ -1,6 +1,0 @@
-Para o formulário usa-se a tag <form>, para enviar é necessario 2 coisas, o metodo de envio e a ação, para isso é usaro junto a tag os atributos method e action. A action é aonde vai ser feita a requisição. 
-Para inserir algo a formulario, se utiliza a tag <input> junto dos atributos type, outros atributos podem ser inseridos.
-Uma das diferenças do method post para get é que o post envia os dados de maneira sigilosa, enquanto o get permite a visualização dos mesmo.
-Sempre é necessário saber qual o method do backend, porque se não poderar haver erros.
-Sempre colocar o name nos elementos de entrada de dados.
-

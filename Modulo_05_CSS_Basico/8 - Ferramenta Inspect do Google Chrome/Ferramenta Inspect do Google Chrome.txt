@@ -1,1 +1,0 @@
-Essa ferramenta serve para podemos inspecionar o frontend de alguns site, incluindo o nosso

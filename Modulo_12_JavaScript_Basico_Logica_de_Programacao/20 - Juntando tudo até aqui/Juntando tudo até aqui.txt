@@ -1,1 +1,0 @@
-- A resolução do problema é sempre olhar para o resultado esperado, e ver se você esta chegando mais perto da solução/resultado.

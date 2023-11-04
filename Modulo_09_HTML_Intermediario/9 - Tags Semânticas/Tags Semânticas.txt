@@ -1,7 +1,0 @@
-Tags Semânticas são para melhorar o rankiamento em motores de pesquisa como google, bing e entre outros.
-header- Cabeçalho
-nav- Navegação(Menu)
-footer- Pé da pagina
-main- Parte principal do conteudo da pagina
-section- Parte de sessão da página
-article- Parte de artigo da página

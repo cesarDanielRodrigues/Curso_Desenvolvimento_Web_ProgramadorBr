@@ -1,1 +1,0 @@
-Quando se utiliza padding e border, eles alteram o tamanho dos elementos correspondentes, para que isso não aconteça utiliza a propriedade box-sizing com o parametro border-box, a propriedade margin não influcia no tamanho do elemento apenas na posição.

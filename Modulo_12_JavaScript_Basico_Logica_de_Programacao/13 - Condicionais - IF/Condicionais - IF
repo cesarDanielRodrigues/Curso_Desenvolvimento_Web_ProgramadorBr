@@ -1,4 +1,0 @@
-Condicionas servem para fazer uma verificação a partir de uma condição
-if serve com "se", se a variável cumprir determinada condição, pode seguir atráves da condicional, "se não"(else) ele segue outra linha código diferente.
-Se for mais de uma ação após cumprir/não cumprir, tem que ser feito o código em bloco de comando, se for apenas uma linha de código não precisa de bloco.
-Pode-se usar qualquer operador comparativo e/ou lógico.

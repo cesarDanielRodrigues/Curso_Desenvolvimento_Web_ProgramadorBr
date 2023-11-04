@@ -1,2 +1,0 @@
-Quando se trata de fontes customizadas, é importante se atentar ao peso e formato de arquivo da fontes, principalmente formato porque dependendo do seu navegador, ele pode não fazer a leitura desse formato, já o peso é mais questão de otimizadação pois ele pode demorar um pouco mais para carregar.
-Para utilizar uma fonte personalizada quando ela estiver local, é necessário usar @font-face{}, dentro dele usar propriedades font-family, e inserir de parametro nela o nome que voce que a nova fonte; e a propriedade src com o parametro url(local da fonte).

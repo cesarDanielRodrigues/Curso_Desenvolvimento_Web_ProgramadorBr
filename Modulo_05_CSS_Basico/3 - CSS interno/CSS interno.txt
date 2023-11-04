@@ -1,2 +1,0 @@
-A tag <style> deve ser sempre dentro do head, pois caso ela seja inserida dentro do <body> pode apresentar um problema de carregamento na página;
-É possível utiliza o inline e interno juntos;

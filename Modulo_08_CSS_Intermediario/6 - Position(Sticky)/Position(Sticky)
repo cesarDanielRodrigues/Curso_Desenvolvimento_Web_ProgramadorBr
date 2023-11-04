@@ -1,1 +1,0 @@
-O position sticky é muito semelhante ao position fixed, porem ela tem sua posição fixa em relação a elemento pai e a tela, ao contrario do fixed.
